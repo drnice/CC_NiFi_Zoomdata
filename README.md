@@ -1,5 +1,5 @@
 # Introduction
-Visualizing Realtime data can be a challenge.  However the combination of NiFi to route data and publish data to Zoomdata's Upload API make it extremely easy to interact with real time data and get a sense of what is being generated immediately.  Click here to see what can be done - https://customerdemo.zoomdata.com/zoomdata/visualization/58065a83e4b013a41a10f762+5abb0636e4b07b5eab254299?__target=embedded&key=ayYB6FPrna This demonstration repo will provide users the ability to recreate this demo using NiFi and Zoomdata.'
+Visualizing Realtime data can be a challenge.  However the combination of NiFi to route data and publish data to Zoomdata's Upload API make it extremely easy to interact with real time data and get a sense of what is being generated immediately.  Click here to see what can be done - <INSERT LINK HERE> This demonstration repo will provide users the ability to recreate this demo using NiFi and Zoomdata.'
 
 # The Python Script
 The python script picks a random point in the name_cc.csv file in order to generate a random name and fictitious CC number.  The python script also pulls in a random point from CountyStateZip.csv file to place that person in a specific geolocation where the CC tansaction occurred.
